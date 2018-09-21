@@ -1,11 +1,16 @@
 _repo: Three-Years-Wanderings-in-the-Northern-Provinces-of-China-Including-a-visit-to-the-tea-silk-a__54720
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54720-h/images/cover.jpg
 creator:
   author:
     agent_name: Fortune, Robert
     gutenberg_agent_id: '48011'
     url: http://www.gutenberg.org/2009/agents/48011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54720#Three-Years-Wanderings-in-the-Northern-Provinces-of-China-Including-a-visit-to-the-tea-silk-a_
 gutenberg_issued: '2017-05-14'
 gutenberg_type: Text
 identifiers:
